@@ -1,0 +1,8 @@
+.container {
+  flex: 0 0 auto;
+  width: 200px;
+  margin: var(--dl-space-space-twounits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
